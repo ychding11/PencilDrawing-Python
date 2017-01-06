@@ -1,4 +1,4 @@
-PencilDraw V 1.5
+PencilDraw V 1.0
 ===============
 
 6 Jan 2017
@@ -24,7 +24,7 @@ For example opence, numpy, scipy.
 Details
 ========
 
-genStroke.py : generate strokes from input image 
-genTone.py   : generate tone from input image 
-test.py      : default startup file to generate colored pencil drawing.
-utils.py     : you can igore
++ genStroke.py : generate strokes from input image 
++ genTone.py   : generate tone from input image 
++ test.py      : default startup file to generate colored pencil drawing.
++ utils.py     : you can igore
