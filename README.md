@@ -31,6 +31,6 @@ Details
 
 Demo
 ========
-+ ![original image](.\\pic\\sjtu.jpg)
-+ ![pencil draw](.\\pic\\pencil-drawing.png)
-+ ![color pencil draw](.\\pic\\color-pencil-draw.png)
++ ![original image](https://github.com/ychding11/PencilDrawing-Python/blob/master/pic/sjtu.jpg)
++ ![pencil draw](https://github.com/ychding11/PencilDrawing-Python/blob/master/pic/pencil-drawing.png)
++ ![color pencil draw](https://github.com/ychding11/PencilDrawing-Python/blob/master/pic/color-pencil-draw.png)
