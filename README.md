@@ -28,3 +28,9 @@ Details
 + genTone.py   : generate tone from input image 
 + test.py      : default startup file to generate colored pencil drawing.
 + utils.py     : you can igore
+
+Demo
+========
++ ![original image](.\\pic\\sjtu.jpg)
++ ![pencil draw](.\\pic\\pencil-drawing.png)
++ ![color pencil draw](.\\pic\\color-pencil-draw.png)
